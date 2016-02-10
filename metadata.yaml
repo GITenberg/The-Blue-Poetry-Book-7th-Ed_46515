@@ -1,0 +1,48 @@
+_repo: The-Blue-Poetry-Book-7th-Ed_46515
+contributor:
+  creator:
+    editor:
+      agent_name: Lang, Andrew
+      alias: Lang, Walter Andrew
+      birthdate: 1844
+      deathdate: 1912
+      gutenberg_agent_id: '79'
+      url: http://www.gutenberg.org/2009/agents/79
+      wikipedia: http://en.wikipedia.org/wiki/Andrew_Lang
+  illustrators:
+  - agent_name: Speed, Lancelot
+    birthdate: &id001 1860
+    deathdate: 1931
+    gutenberg_agent_id: '9847'
+    url: http://www.gutenberg.org/2009/agents/9847
+    wikipedia: http://en.wikipedia.org/wiki/Lancelot_Speed
+  - agent_name: Ford, H. J. (Henry Justice)
+    alias: Ford, Henry Justice
+    birthdate: *id001
+    deathdate: 1941
+    gutenberg_agent_id: '26630'
+    url: http://www.gutenberg.org/2009/agents/26630
+covers:
+- cover_type: archival
+  image_path: 46515/46515-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2014-08-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '46515'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+title: 'The Blue Poetry Book
+
+  7th. Ed.'
+url: http://www.gutenberg.org/ebooks/46515
